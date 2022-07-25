@@ -1,0 +1,10 @@
+C:\Users\Wesley.Andrade\source\repos\Contador_Regressivo\bin\Debug\Contador_Regressivo.exe.config
+C:\Users\Wesley.Andrade\source\repos\Contador_Regressivo\bin\Debug\Contador_Regressivo.exe
+C:\Users\Wesley.Andrade\source\repos\Contador_Regressivo\bin\Debug\Contador_Regressivo.pdb
+C:\Users\Wesley.Andrade\source\repos\Contador_Regressivo\obj\Debug\Contador_Regressivo.csproj.AssemblyReference.cache
+C:\Users\Wesley.Andrade\source\repos\Contador_Regressivo\obj\Debug\Contador_Regressivo.Form1.resources
+C:\Users\Wesley.Andrade\source\repos\Contador_Regressivo\obj\Debug\Contador_Regressivo.Properties.Resources.resources
+C:\Users\Wesley.Andrade\source\repos\Contador_Regressivo\obj\Debug\Contador_Regressivo.csproj.GenerateResource.cache
+C:\Users\Wesley.Andrade\source\repos\Contador_Regressivo\obj\Debug\Contador_Regressivo.csproj.CoreCompileInputs.cache
+C:\Users\Wesley.Andrade\source\repos\Contador_Regressivo\obj\Debug\Contador_Regressivo.exe
+C:\Users\Wesley.Andrade\source\repos\Contador_Regressivo\obj\Debug\Contador_Regressivo.pdb
